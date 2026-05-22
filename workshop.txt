@@ -1,0 +1,7 @@
+version=1
+id=EuTenhoEsseLivro
+title=[Build 42] Eu Tenho Esse Livro / I have this book
+description=Permite marcar livros, revistas, receitas e mapas que você já possui.
+tags=Build 42;Interface;QoL
+visibility=public
+version=42.18
