@@ -4,6 +4,10 @@
 
 Adiciona um marcador visual aos livros que você já possui na sua base.
 
+## Steam Workshop
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=3730837623
+
 ## Recursos
 
 - Marcar livros pelo menu de contexto
@@ -33,6 +37,10 @@ Adds a visual marker to books you already own at your base.
 ## Installation
 
 Subscribe on Steam Workshop.
+
+## Icon
+
+<a href="https://www.flaticon.com/free-icons/open-book" title="open book icons">Open book icons created by Vector Stall - Flaticon</a>
 
 ## Contributing
 
